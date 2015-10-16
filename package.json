@@ -1,0 +1,33 @@
+{
+  "name": "alert-gethooksapp",
+  "version": "1.0.0",
+  "description": "get hooks app api simple wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikeljames/alerts-gethooksapp.git"
+  },
+  "keywords": [
+    "alerts",
+    "hooksapp",
+    "hooks",
+    "gethooksapp",
+    "notification"
+  ],
+  "author": "mjames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeljames/alerts-gethooksapp/issues"
+  },
+  "homepage": "https://github.com/mikeljames/alerts-gethooksapp#readme",
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
